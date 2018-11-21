@@ -2,3 +2,7 @@ mysite/polls/__pycache__
 __init__.cpython-37.pyc
 0001_initial.cpython-37.pyc
 db.sqlite3
+six.py
+myvenv/lib/python3.7/site-packages
+mysite/mysite/__pycache__/settings.cpython-3.7.pyc
+mysite/db.sqlite3
